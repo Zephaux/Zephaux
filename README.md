@@ -9,7 +9,7 @@
 
 ###
 
-<img align="right" width="220" height="250" src="https://media1.tenor.com/m/ItD_VgzXzewAAAAd/cat-sung-jin-woo.gif"  />
+<img align="right" width="150" height="150" src="https://media1.tenor.com/m/ItD_VgzXzewAAAAd/cat-sung-jin-woo.gif"  />
 
 ###
 
@@ -44,7 +44,11 @@
 
 ###
 
-<img scr="https://github.com/Zephaux/Zephaux/blob/main/snake.yml"/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
+</picture>
 
 ###
 
