@@ -44,7 +44,7 @@
 
 ###
 
-<img scr="https://github.com/Zephaux/Zephaux/blob/main/snake.iml"/>
+<img scr="https://github.com/Zephaux/Zephaux/blob/main/snake.yml"/>
 
 ###
 
